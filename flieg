@@ -11,7 +11,7 @@
       defer
       data-domain="app.optimism.io"
       src="https://plausible.io/js/plausible.js"
-    ></script>
+    ></script> 
 
     <meta name="theme-color" content="#000000" />
     <meta name="description" content="Get started using OP Mainnet today." />
